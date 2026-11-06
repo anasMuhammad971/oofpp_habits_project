@@ -23,7 +23,7 @@ Written in Python 3 (standard library only) for the course
 ## Installation
 ```bash
 # 1. get the code
-git clone https://github.com/<your-username>/oofpp_habits_project.git
+git clone https://github.com/anasMuhammad971/oofpp_habits_project.git
 cd oofpp_habits_project
 
 # 2. (optional) install pytest to run the tests
