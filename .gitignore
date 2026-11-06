@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+# Local database created when the app runs
+*.db
+# Editors / virtual environments
+.vscode/
+.venv/
+venv/

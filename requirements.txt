@@ -1,0 +1,3 @@
+# The application itself only uses the Python standard library (Python 3.9 or newer).
+# Only the tests need an extra package:
+pytest
